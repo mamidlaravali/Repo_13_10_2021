@@ -1,0 +1,6 @@
+git branch
+git add .
+git add filename
+git status
+git branch -D branch name
+
